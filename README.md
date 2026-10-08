@@ -1,4 +1,4 @@
 # luckyware-Fucker
 luckyware deleter
 
-# run administrator
+#  administrator　run
